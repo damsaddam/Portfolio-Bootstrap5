@@ -1,0 +1,14 @@
+/* kalo class pake titik */
+.jumbotron {
+  padding-top: 7rem;
+  background-color: #a2d9ff;
+}
+
+/* kalo id pake pagar */
+#projects {
+  background-color: #a2d9ff;
+}
+
+section {
+  padding-top: 7rem;
+}
