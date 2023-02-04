@@ -5,7 +5,7 @@ If you need a template for your portfolio, maybe this template is a solution for
 - CSS
 - Bootstrap v5 (https://getbootstrap.com/docs/5.0/getting-started/introduction/)
 - Bootstrap Icons (https://icons.getbootstrap.com/)
-- Photos Source (sorry, I forgot. I hope those who have these photos understand it)
+- Photos Source (These photos owned by someone, sorry I forgot who has these photos. I hope those who have these photos understand it)
 
 ## Features
 
